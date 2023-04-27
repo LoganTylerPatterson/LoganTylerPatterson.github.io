@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+  margin: 0;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.h25 {
+  height: 25vh;
+}
+
+.h33 {
+  height: 33vh;
+}
+
+
+.bg-red {
+  background-color: red;
+}
+
+.bg-grey {
+  background-color: grey;
+}
+
+.bg-black {
+  background-color: black;
+}
