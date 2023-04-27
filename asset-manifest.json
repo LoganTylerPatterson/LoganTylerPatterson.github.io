@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/loganpatterson/static/css/main.759d2413.css",
+    "main.js": "/loganpatterson/static/js/main.ed07f715.js",
+    "static/media/bg.png": "/loganpatterson/static/media/bg.d63cfd51f1a63591fdd7.png",
+    "index.html": "/loganpatterson/index.html",
+    "main.759d2413.css.map": "/loganpatterson/static/css/main.759d2413.css.map",
+    "main.ed07f715.js.map": "/loganpatterson/static/js/main.ed07f715.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.759d2413.css",
+    "static/js/main.ed07f715.js"
+  ]
+}
